@@ -25,6 +25,12 @@
 - Has 100000 + downloads and 500 active users (per 30 mins)
 - https://animevid.xyz/apps
 
+
+## Weather App
+
+- Participated in google's android dev challenge week 4
+- https://github.com/balvinderz/my-weather-app
+- 
 ## Medium Article Reader
 
 - Read medium articles for free
