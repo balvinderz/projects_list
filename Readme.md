@@ -80,5 +80,6 @@
 # More projects i have contrubutions in
 - https://play.google.com/store/apps/details?id=com.sweedesi.android.customerapp&hl=en&gl=US
 - https://play.google.com/store/apps/details?id=com.gravty.chalhoub&hl=en&gl=US
+- https://play.google.com/store/apps/details?id=com.intract.ifi
 
 
